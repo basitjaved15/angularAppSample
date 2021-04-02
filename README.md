@@ -4,7 +4,7 @@ This project is part of a tutorial where i explain how to configure Apache Tomca
 
 ## Get Start
 ```bash
-git clone git@github.com:bautistaj/angularApp.git
+git clone git@github.com:basitjaved15/angularAppSample.git
 
 cd angularApp
 
@@ -19,7 +19,6 @@ Once run `npm run build` run `npm run build:war`, this command convert the build
 
 ## Deploy
 
-You can copy and paste in webapps directory of Apache Tomcat, you can read this tutorial [How to deploy an Angular App in Apache Tomcat with Azure DevOps](https://medium.com/@bautistaj20/how-to-deploy-an-angular-app-in-apache-tomcat-with-azure-devops-900e67a21122).
-
+You can copy and paste in webapps directory of Apache Tomcat.
 
 
